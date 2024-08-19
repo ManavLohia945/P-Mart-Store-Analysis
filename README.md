@@ -1,4 +1,4 @@
-****P-Mart Store Sales Analysis Project****
+******P-Mart Store Sales Analysis Project******************/n
 **Project Overview**
 The P-Mart Sales Analysis project was designed to analyze annual sales data and generate meaningful insights that will aid P-Mart in understanding its customers and formulating growth strategies for the upcoming year. The analysis was conducted using Microsoft Excel, with a focus on data cleaning, processing, analysis, and dashboard creation.
 
